@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0979-di-string-match](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0979-di-string-match) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0979-di-string-match](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0979-di-string-match) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
