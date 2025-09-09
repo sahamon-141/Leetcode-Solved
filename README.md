@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0061-rotate-list) |
 | [0979-di-string-match](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0979-di-string-match) |
 ## String
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0048-rotate-image) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
