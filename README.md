@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0485-max-consecutive-ones](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0485-max-consecutive-ones) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0061-rotate-list) |
 | [0979-di-string-match](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0979-di-string-match) |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0061-rotate-list) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
