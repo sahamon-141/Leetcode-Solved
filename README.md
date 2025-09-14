@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0979-di-string-match](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0979-di-string-match) |
 ## Greedy
