@@ -6,13 +6,13 @@ class MyStack {
     }
     
     public void push(int x) {
-        qu2.add(x);
-    while (!qu1.isEmpty()) {
-        qu2.add(qu1.remove());
-    }
-    Queue<Integer> temp = qu1;
-    qu1 = qu2;
-    qu2 = temp;
+    qu2.add(x);
+        while(!qu1.isEmpty()){
+            qu2.add(qu1.remove());
+        }
+        Queue<Integer> temp = qu1   ;
+        qu1=qu2;
+        qu2=temp;
     }
     
     public int pop() {
