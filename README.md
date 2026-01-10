@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0165-compare-version-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0876-middle-of-the-linked-list) |
 | [0979-di-string-match](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0979-di-string-match) |
 ## String
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
