@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0485-max-consecutive-ones](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0979-di-string-match](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0979-di-string-match) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0225-implement-stack-using-queues) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
