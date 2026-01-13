@@ -111,9 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0190-reverse-bits) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0234-palindrome-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
