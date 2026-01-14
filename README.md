@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
