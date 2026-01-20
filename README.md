@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0078-subsets) |
 | [0485-max-consecutive-ones](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0979-di-string-match](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0979-di-string-match) |
@@ -127,9 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0844-backspace-string-compare) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
