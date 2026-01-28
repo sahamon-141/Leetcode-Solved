@@ -14,9 +14,10 @@ public class Solution {
         ListNode first = head;
         ListNode second = head;
         while(first!=null&&first.next!=null){
-            first = first.next.next;
             second = second.next;
-            if(first ==second){
+            first = first.next.next;
+            
+            if(first==second){
                 return true;
             }
         }
