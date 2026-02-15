@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0733-flood-fill) |
 | [0946-validate-stack-sequences](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0946-validate-stack-sequences) |
+| [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [0979-di-string-match](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0979-di-string-match) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0190-reverse-bits) |
+| [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -167,4 +171,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0733-flood-fill) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
