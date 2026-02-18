@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
