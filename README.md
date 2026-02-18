@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0485-max-consecutive-ones) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
