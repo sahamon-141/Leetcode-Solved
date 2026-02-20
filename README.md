@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [0979-di-string-match](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0979-di-string-match) |
+| [1470-shuffle-the-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
