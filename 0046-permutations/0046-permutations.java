@@ -13,10 +13,8 @@ class Solution {
             arr[idx] = arr[i];
             arr[i] = temp;
 
-            // Recursive call
             permutations(res, arr, idx + 1);
-
-            // Backtracking
+            
             temp = arr[idx];
             arr[idx] = arr[i];
             arr[i] = temp;
