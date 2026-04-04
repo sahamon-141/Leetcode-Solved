@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0198-house-robber) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0143-reorder-list) |
