@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0224-basic-calculator) |
 | [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0165-compare-version-numbers) |
+| [0224-basic-calculator](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0224-basic-calculator) |
 | [0844-backspace-string-compare](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0844-backspace-string-compare) |
 | [0979-di-string-match](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0979-di-string-match) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
