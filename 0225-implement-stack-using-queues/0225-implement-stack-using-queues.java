@@ -10,7 +10,7 @@ class MyStack {
         while(!qu1.isEmpty()){
             qu2.add(qu1.remove());
         }
-        Queue<Integer> temp = qu1   ;
+        Queue<Integer> temp = qu1;
         qu1=qu2;
         qu2=temp;
     }
