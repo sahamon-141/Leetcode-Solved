@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0224-basic-calculator) |
 | [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0198-house-robber) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Trie
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
