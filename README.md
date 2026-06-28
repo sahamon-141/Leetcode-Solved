@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0189-rotate-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0328-odd-even-linked-list) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0148-sort-list) |
 | [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0190-reverse-bits) |
 | [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
@@ -330,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0387-first-unique-character-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
