@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1089-duplicate-zeros) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1470-shuffle-the-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1470-shuffle-the-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1710-maximum-units-on-a-truck) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2596-check-knight-tour-configuration) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0979-di-string-match](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0979-di-string-match) |
+| [1710-maximum-units-on-a-truck](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1710-maximum-units-on-a-truck) |
 ## Matrix
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1710-maximum-units-on-a-truck](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1710-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
 | ------- |
