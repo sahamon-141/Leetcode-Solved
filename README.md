@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
+| [0435-non-overlapping-intervals](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0979-di-string-match](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0979-di-string-match) |
 ## Matrix
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Dynamic Programming
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0198-house-robber) |
+| [0435-non-overlapping-intervals](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Trie
