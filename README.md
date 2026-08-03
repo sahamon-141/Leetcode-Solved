@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1470-shuffle-the-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1710-maximum-units-on-a-truck) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0733-flood-fill](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0733-flood-fill) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1710-maximum-units-on-a-truck) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Hash Function
 |  |
 | ------- |
