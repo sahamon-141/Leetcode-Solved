@@ -1,21 +1,30 @@
 class Solution {
-    public static int squaredDis(int[] point){
-     return point[0]*point[0] + point[1]*point[1];   
+    static class Points implements Comparable<Points>{
+        int x;
+        int y;
+        int dist;
+        Points(int x,int y,int dist){
+            this.x = x;
+            this.y = y;
+            this.dist = dist;
+        }
+        public int compareTo(Points p2){
+            return this.dist-p2.dist;
+        }
+
     }
     public int[][] kClosest(int[][] points, int k) {
-        Arrays.sort(points, new Comparator<int[]>() {
-            public int compare(int[] p1, int[] p2) {
-                return squaredDis(p1) - squaredDis(p2);
-            }
-        });
-        int[][] result = new int[k][];
+        int[][] result = new int[k][2];
+        PriorityQueue<Points> pq = new PriorityQueue<>();
+        for(int i=0;i<points.length;i++){
+            int dist = points[i][0]*points[i][0] + points[i][1]*points[i][1];
+            pq.add(new Points(points[i][0],points[i][1],dist));
+        }
         for(int i=0;i<k;i++){
-            int[] temp = new int[2];
-            temp[0] = points[i][0];
-            temp[1] = points[i][1];
-            result[i] = temp;
+            Points p = pq.poll();
+            result[i][0] = p.x;
+            result[i][1] = p.y;
         }
         return result;
-        
     }
 }
