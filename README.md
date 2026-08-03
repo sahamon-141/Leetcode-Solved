@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0239-sliding-window-maximum) |
 | [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Indexed Tree
 |  |
@@ -386,4 +390,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0148-sort-list) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
