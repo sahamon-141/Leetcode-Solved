@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2596-check-knight-tour-configuration) |
 ## Geometry
 |  |
@@ -441,4 +443,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0322-coin-change) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
