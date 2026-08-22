@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [1250-check-if-it-is-a-good-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1250-check-if-it-is-a-good-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
