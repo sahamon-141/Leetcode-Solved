@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0733-flood-fill) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2596-check-knight-tour-configuration) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0190-reverse-bits) |
 | [1386-cinema-seat-allocation](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1386-cinema-seat-allocation) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2596-check-knight-tour-configuration) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Geometry
 |  |
 | ------- |
