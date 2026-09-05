@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0051-n-queens) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0979-di-string-match](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0979-di-string-match) |
 | [1386-cinema-seat-allocation](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1386-cinema-seat-allocation) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0072-edit-distance) |
