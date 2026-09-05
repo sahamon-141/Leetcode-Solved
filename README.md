@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [2906-construct-product-matrix](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2906-construct-product-matrix) |
 | [3903-smallest-stable-index-i](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3904-smallest-stable-index-ii) |
 ## Depth-First Search
 |  |
 | ------- |
