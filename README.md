@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0844-backspace-string-compare) |
+| [0940-distinct-subsequences-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0940-distinct-subsequences-ii) |
 | [0979-di-string-match](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0979-di-string-match) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1927-sum-game) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0940-distinct-subsequences-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
