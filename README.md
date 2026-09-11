@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2596-check-knight-tour-configuration](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2596-check-knight-tour-configuration) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2596-check-knight-tour-configuration) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -506,12 +508,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
 ## Longest Increasing Subsequence
 |  |
@@ -553,4 +557,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0075-sort-colors) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
