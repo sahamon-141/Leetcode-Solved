@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2906-construct-product-matrix) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3875-construct-uniform-parity-array-i) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Trie
 |  |
 | ------- |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Function
 |  |
 | ------- |
