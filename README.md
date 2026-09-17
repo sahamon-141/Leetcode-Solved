@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1710-maximum-units-on-a-truck](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1710-maximum-units-on-a-truck) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1929-concatenation-of-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0940-distinct-subsequences-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Function
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Indexed Tree
