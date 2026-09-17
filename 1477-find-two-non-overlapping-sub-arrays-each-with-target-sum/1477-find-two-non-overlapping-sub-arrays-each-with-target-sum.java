@@ -1,23 +1,29 @@
-class Solution {
-
+public class Solution {
     public int minSumOfLengths(int[] arr, int target) {
-        Map<Integer, Integer> pos = new HashMap<>();
-        pos.put(0, -1);
         int n = arr.length;
-        int s = 0;
-        int ans = n + 1;
-        int minL = n;
+        int[] minLen = new int[n];
+        int INF = Integer.MAX_VALUE;
+        int minSoFar = INF;
+        int ans = INF;
+        int sum = 0;
+        int start = 0;
+
         for (int i = 0; i < n; i++) {
-            s += arr[i];
-            if (pos.containsKey(s - target)) {
-                int j = pos.get(s - target);
-                int len = i - j;
-                ans = Math.min(ans, len + (j == -1 ? n : arr[j]));
-                minL = Math.min(minL, len);
+            sum += arr[i];
+            while (sum > target) {
+                sum -= arr[start];
+                start++;
             }
-            arr[i] = minL;
-            pos.put(s, i);
+            if (sum == target) {
+                int currLen = i - start + 1;
+                if (start > 0 && minLen[start - 1] != INF) {
+                    ans = Math.min(ans, currLen + minLen[start - 1]);
+                }
+                minSoFar = Math.min(minSoFar, currLen);
+            }
+            minLen[i] = minSoFar;
         }
-        return ans == n + 1 ? -1 : ans;
+
+        return ans == INF ? -1 : ans;
     }
 }
