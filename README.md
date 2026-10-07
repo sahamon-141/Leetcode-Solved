@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0165-compare-version-numbers) |
 | [0224-basic-calculator](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0224-basic-calculator) |
+| [0301-remove-invalid-parentheses](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0844-backspace-string-compare) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0301-remove-invalid-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0783-minimum-distance-between-bst-nodes) |
