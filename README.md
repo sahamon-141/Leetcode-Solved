@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0979-di-string-match) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0979-di-string-match) |
 | [1386-cinema-seat-allocation](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1710-maximum-units-on-a-truck) |
 | [1927-sum-game](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0856-score-of-parentheses) |
 | [0946-validate-stack-sequences](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0946-validate-stack-sequences) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0856-score-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Timsort
