@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0881-boats-to-save-people) |
+| [0930-binary-subarrays-with-sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [0979-di-string-match](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0979-di-string-match) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2906-construct-product-matrix](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2906-construct-product-matrix) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0239-sliding-window-maximum) |
+| [0930-binary-subarrays-with-sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
