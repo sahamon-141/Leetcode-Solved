@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
 | [1192-critical-connections-in-a-network](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1192-critical-connections-in-a-network) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
 | [1192-critical-connections-in-a-network](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1192-critical-connections-in-a-network) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
@@ -683,4 +687,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1192-critical-connections-in-a-network) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
