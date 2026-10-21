@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
+| [1192-critical-connections-in-a-network](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1192-critical-connections-in-a-network) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2596-check-knight-tour-configuration](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2596-check-knight-tour-configuration) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
+| [1192-critical-connections-in-a-network](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1192-critical-connections-in-a-network) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
 ## Longest Increasing Subsequence
 |  |
@@ -673,4 +675,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0881-boats-to-save-people) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
