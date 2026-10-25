@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0127-word-ladder](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0165-compare-version-numbers) |
 | [0224-basic-calculator](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0224-basic-calculator) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0210-course-schedule-ii) |
@@ -695,4 +698,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0743-network-delay-time) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
