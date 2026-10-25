@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2596-check-knight-tour-configuration](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2906-construct-product-matrix) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0979-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1089-duplicate-zeros) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1710-maximum-units-on-a-truck) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2906-construct-product-matrix](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2906-construct-product-matrix) |
 | [3903-smallest-stable-index-i](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3904-smallest-stable-index-ii) |
@@ -473,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quickselect
 |  |
 | ------- |
