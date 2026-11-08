@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1250-check-if-it-is-a-good-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1250-check-if-it-is-a-good-array) |
 | [1254-number-of-closed-islands](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0733-flood-fill](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
 | [1192-critical-connections-in-a-network](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1192-critical-connections-in-a-network) |
 | [1254-number-of-closed-islands](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2596-check-knight-tour-configuration](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2596-check-knight-tour-configuration) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2596-check-knight-tour-configuration) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -583,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Merge Sort
 |  |
@@ -629,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/sahamon-141/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
