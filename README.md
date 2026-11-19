@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2596-check-knight-tour-configuration](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2596-check-knight-tour-configuration) |
 | [2747-count-zero-request-servers](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
