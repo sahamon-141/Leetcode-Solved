@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3524-find-x-value-of-array-i](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3524-find-x-value-of-array-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1927-sum-game](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1927-sum-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/sahamon-141/Leetcode-Solved/tree/master/1250-check-if-it-is-a-good-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bézout's Lemma
 |  |
 | ------- |
@@ -680,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sahamon-141/Leetcode-Solved/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sahamon-141/Leetcode-Solved/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Meet in the Middle
 |  |
